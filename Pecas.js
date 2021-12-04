@@ -34,7 +34,7 @@ switch(nomePeca.lenght){
     Case 1:
     Case 2:
     Case 3:
-    console.log("O nome deve ter mais de 3 caracteres, digitr um nome adeguado")
+    console.log("O nome deve ter mais de 3 caracteres, digite um nome adequado")
 
     default:
         console.log("Nome da peça está adequado")
